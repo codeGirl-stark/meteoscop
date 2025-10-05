@@ -1,0 +1,13 @@
+.env
+
+.venv
+
+venv
+
+.vscode
+
+__pycache__
+
+activities.csv
+impact_reports.csv
+weather_history.csv
